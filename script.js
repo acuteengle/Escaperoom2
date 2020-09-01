@@ -90,7 +90,7 @@ $("#button4").click(() => {
 const response5 = $("#response5")
 $("#button5").click(() => {
     const answer = $("#answer5").val();
-    if (answer == "merryxmas") {
+    if (answer == "MERRYXMAS") {
         response5.css("display", "block");
         response5.css("background-color", "#93FF95");
         response5.html("You may proceed to the next question!");
@@ -124,7 +124,7 @@ $("#button6").click(() => {
 const response7 = $("#response7")
 $("#button7").click(() => {
     const answer = $("#answer7").val();
-    if (answer == "breathe") {
+    if (answer == "breath") {
         response7.css("display", "block");
         response7.css("background-color", "#93FF95");
         response7.html("You may proceed to the next question!");
