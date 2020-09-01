@@ -37,6 +37,10 @@ p {
     border-radius: 20px;
 }
 
+#intro {
+    display: block;
+}
+
 #timer-container {
     display: none;
     background-color: #FFC493;
